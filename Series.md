@@ -7,3 +7,9 @@
  Gant
  Berserk
   
+  
+  # Guilherme
+  
+  Supernatural
+  Game of Thrones
+  Tokio Go
