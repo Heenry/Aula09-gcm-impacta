@@ -6,7 +6,8 @@
  Tokyo Ghoul
  Gant
  Berser<<<<<<< lleite007-patch-1
-ArrowBlacklist
+Arrow
+Blacklist
 Flash
 Bones
   
