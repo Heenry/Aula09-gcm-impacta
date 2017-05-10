@@ -4,6 +4,11 @@
  
  Shingeki no kyojin
  Tokyo Ghoul
- Gant
+ Gantz
  Berserk
   
+* Fernando
+Orange New Black
+Black Mirror
+Prison Break
+
