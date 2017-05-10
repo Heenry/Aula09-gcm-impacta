@@ -7,3 +7,7 @@
  Gant
  Berserk
   
+Arrow
+Blacklist
+Flash
+Bones
