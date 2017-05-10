@@ -5,8 +5,10 @@
  Shingeki no kyojin
  Tokyo Ghoul
  Gant
- Berserk
-  
+ Berser<<<<<<< lleite007-patch-1
+ArrowBlacklist
+Flash
+Bones
   
   # Guilherme
   
