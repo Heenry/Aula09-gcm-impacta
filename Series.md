@@ -6,6 +6,8 @@
  Tokyo Ghoul
  Gant
  Berser<<<<<<< lleite007-patch-1
+ 
+ # Lucas >>>>>>> master
 Arrow
 Blacklist
 Flash
