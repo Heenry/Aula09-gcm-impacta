@@ -5,9 +5,13 @@
  Shingeki no kyojin
  Tokyo Ghoul
  Gant
- Berserk
-  
-Arrow
-Blacklist
+ Berser<<<<<<< lleite007-patch-1
+ArrowBlacklist
 Flash
 Bones
+  
+  # Guilherme
+  
+  Supernatural
+  Game of Thrones
+  Tokio Go
